@@ -1,8 +1,8 @@
 # SetUp Instruction
   Cone The Repo Using: git clone https://github.com/Prashanna21/logical-task-vrit <br>
-  Change the directory using: cd logical-task-vrit
-  Install NPM packages using: npm i
-  Run The Code using: npm run dev
+  Change the directory using: cd logical-task-vrit <br>
+  Install NPM packages using: npm i <br>
+  Run The Code using: npm run dev <br>
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
