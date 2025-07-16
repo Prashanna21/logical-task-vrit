@@ -15,7 +15,7 @@ function Task9() {
         charCount[arr[i]] = 1;
       }
     }
-    console.log(charCount);
+    console.log("Task 9 Output: ", charCount);
 
     // setCount(Object.entries(charCount));
 
